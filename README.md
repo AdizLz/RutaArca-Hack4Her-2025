@@ -96,10 +96,10 @@ El módulo de mapa clasifica las zonas de Monterrey en tres niveles para prioriz
 ## Módulo de FeedBack
 
 El reporte de visita incluye:
-- 📸 Captura de foto con cámara
-- 🎙️ Grabación de audio
-- ✍️ Firma digital del trabajador y del dueño del local
-- ⭐ Calificación de la visita
+- Captura de foto con cámara
+- Grabación de audio
+- Firma digital del trabajador y del dueño del local
+- Calificación de la visita
 
 ---
 
